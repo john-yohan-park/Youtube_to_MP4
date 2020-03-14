@@ -1,8 +1,5 @@
-# Youtube_to_MP4_Converter
+# Youtube_to_MP4
 
-Written in Python
-
-## Introduction
 Convert youtube videos to mp4 files
 
 ## System Requirements
