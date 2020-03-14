@@ -1,6 +1,6 @@
 # Youtube_to_MP4
 
-Convert youtube videos to mp4 files
+Convert any youtube video to an mp4 file
 
 ## System Requirements
 Name       | Terminal Command
