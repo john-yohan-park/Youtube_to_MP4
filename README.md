@@ -16,6 +16,8 @@ Download multiple songs from list of URLs in `urls.txt`
 - open `urls.txt`
 - copy & paste URLs (1 per line)
 - open Terminal
-- cd into `youtube-to-mp4` directory
+- cd into `Youtube-to-MP4` directory
 - type `python3 downloader.py` in Terminal
-- converted mp3 files are in `Videos` directory
+- converted mp4 files are in `Videos` directory
+
+https://github.com/john-yohan-park/Youtube_to_MP4
